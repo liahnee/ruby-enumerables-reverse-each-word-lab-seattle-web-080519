@@ -1,5 +1,3 @@
-
-
 def reverse_each_word(old)
   new = old.split(" ")
   new.each do |i|
